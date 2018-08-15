@@ -1,0 +1,34 @@
+c:\users\asus\documents\visual studio 2010\Projects\Deneme2\Deneme2\bin\Debug\Deneme2.exe
+c:\users\asus\documents\visual studio 2010\Projects\Deneme2\Deneme2\bin\Debug\Deneme2.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Deneme2\Deneme2\obj\x86\Debug\Deneme2.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\Deneme2\Deneme2\obj\x86\Debug\Deneme2.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\Deneme2\Deneme2\obj\x86\Debug\Deneme2.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\Deneme2\Deneme2\obj\x86\Debug\Deneme2.exe
+c:\users\asus\documents\visual studio 2010\Projects\Deneme2\Deneme2\obj\x86\Debug\Deneme2.pdb
+C:\Users\ASUS\documents\visual studio 2010\Projects\Deneme2\Deneme2\obj\x86\Debug\Deneme2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Deneme2\Deneme2\bin\Debug\ObjLoader.dll
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Deneme2\Deneme2\bin\Debug\ObjLoader.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\DenemeObj\Deneme2\obj\x86\Debug\Deneme2.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\DenemeObj\Deneme2\obj\x86\Debug\Deneme2.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\DenemeObj\Deneme2\bin\Debug\Deneme2.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\DenemeObj\Deneme2\bin\Debug\Deneme2.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\DenemeObj\Deneme2\bin\Debug\ObjLoader.dll
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\DenemeObj\Deneme2\bin\Debug\ObjLoader.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\DenemeObj\Deneme2\obj\x86\Debug\Deneme2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\DenemeObj\Deneme2\obj\x86\Debug\Deneme2.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\DenemeObj\Deneme2\obj\x86\Debug\Deneme2.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\DenemeObj\Deneme2\obj\x86\Debug\Deneme2.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\DenemeObj\Deneme2\bin\Debug\Deneme2.exe
+C:\Users\Furkan\Desktop\DenemeObj\Deneme2\bin\Debug\Deneme2.pdb
+C:\Users\Furkan\Desktop\DenemeObj\Deneme2\bin\Debug\Tao.OpenGl.dll
+C:\Users\Furkan\Desktop\DenemeObj\Deneme2\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Furkan\Desktop\DenemeObj\Deneme2\bin\Debug\ObjLoader.pdb
+C:\Users\Furkan\Desktop\DenemeObj\Deneme2\bin\Debug\Tao.OpenGl.xml
+C:\Users\Furkan\Desktop\DenemeObj\Deneme2\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Furkan\Desktop\DenemeObj\Deneme2\obj\x86\Debug\Deneme2.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\DenemeObj\Deneme2\obj\x86\Debug\Deneme2.Form1.resources
+C:\Users\Furkan\Desktop\DenemeObj\Deneme2\obj\x86\Debug\Deneme2.Properties.Resources.resources
+C:\Users\Furkan\Desktop\DenemeObj\Deneme2\obj\x86\Debug\Deneme2.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\DenemeObj\Deneme2\obj\x86\Debug\Deneme2.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\DenemeObj\Deneme2\obj\x86\Debug\Deneme2.exe
+C:\Users\Furkan\Desktop\DenemeObj\Deneme2\obj\x86\Debug\Deneme2.pdb

@@ -1,0 +1,30 @@
+C:\Users\Furkan\Desktop\bardak\Deneme2\obj\x86\Debug\Bardak.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\bardak\Deneme2\obj\x86\Debug\Deneme2.Form1.resources
+C:\Users\Furkan\Desktop\bardak\Deneme2\obj\x86\Debug\Deneme2.Properties.Resources.resources
+C:\Users\Furkan\Desktop\bardak\Deneme2\obj\x86\Debug\Bardak.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\bardak\Deneme2\obj\x86\Debug\Bardak.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\bardak\Deneme2\obj\x86\Debug\Deneme2.exe
+C:\Users\Furkan\Desktop\bardak\Deneme2\obj\x86\Debug\Deneme2.pdb
+C:\Users\Furkan\Desktop\bardak\Deneme2\bin\Debug\Deneme2.exe
+C:\Users\Furkan\Desktop\bardak\Deneme2\bin\Debug\Deneme2.pdb
+C:\Users\Furkan\Desktop\bardak\Deneme2\bin\Debug\Tao.OpenGl.dll
+C:\Users\Furkan\Desktop\bardak\Deneme2\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Furkan\Desktop\bardak\Deneme2\bin\Debug\ObjLoader.pdb
+C:\Users\Furkan\Desktop\bardak\Deneme2\bin\Debug\Tao.OpenGl.xml
+C:\Users\Furkan\Desktop\bardak\Deneme2\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Furkan\Desktop\bardak\Deneme2\bin\Debug\Tao.FreeGlut.xml
+E:\Çalışmalarım\Bilgisayar Grafikleri\bardak\Deneme2\bin\Debug\Deneme2.exe
+E:\Çalışmalarım\Bilgisayar Grafikleri\bardak\Deneme2\bin\Debug\Deneme2.pdb
+E:\Çalışmalarım\Bilgisayar Grafikleri\bardak\Deneme2\bin\Debug\Tao.OpenGl.dll
+E:\Çalışmalarım\Bilgisayar Grafikleri\bardak\Deneme2\bin\Debug\Tao.Platform.Windows.dll
+E:\Çalışmalarım\Bilgisayar Grafikleri\bardak\Deneme2\bin\Debug\ObjLoader.pdb
+E:\Çalışmalarım\Bilgisayar Grafikleri\bardak\Deneme2\bin\Debug\Tao.FreeGlut.xml
+E:\Çalışmalarım\Bilgisayar Grafikleri\bardak\Deneme2\bin\Debug\Tao.OpenGl.xml
+E:\Çalışmalarım\Bilgisayar Grafikleri\bardak\Deneme2\bin\Debug\Tao.Platform.Windows.xml
+E:\Çalışmalarım\Bilgisayar Grafikleri\bardak\Deneme2\obj\x86\Debug\Bardak.csprojResolveAssemblyReference.cache
+E:\Çalışmalarım\Bilgisayar Grafikleri\bardak\Deneme2\obj\x86\Debug\Deneme2.Form1.resources
+E:\Çalışmalarım\Bilgisayar Grafikleri\bardak\Deneme2\obj\x86\Debug\Deneme2.Properties.Resources.resources
+E:\Çalışmalarım\Bilgisayar Grafikleri\bardak\Deneme2\obj\x86\Debug\Bardak.csproj.GenerateResource.Cache
+E:\Çalışmalarım\Bilgisayar Grafikleri\bardak\Deneme2\obj\x86\Debug\Bardak.csproj.CoreCompileInputs.cache
+E:\Çalışmalarım\Bilgisayar Grafikleri\bardak\Deneme2\obj\x86\Debug\Deneme2.exe
+E:\Çalışmalarım\Bilgisayar Grafikleri\bardak\Deneme2\obj\x86\Debug\Deneme2.pdb
